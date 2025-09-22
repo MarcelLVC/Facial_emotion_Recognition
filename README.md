@@ -1,4 +1,4 @@
-# Facial_emotion_Recognition
+# Facial-emotion-Recognition
 Using CNN model for training and FER-2013 datasets for training and testing.
-Using opencv for facial emotion recognition.
+Using opencv haarcascades for face detector.
 
